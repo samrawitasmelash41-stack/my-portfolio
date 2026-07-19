@@ -47,7 +47,7 @@ A beautiful web platform designed for cosmetics and beauty product showcase, all
 
 **Live Website**
 
-[https://samrawitasmelash41-stack.github.io/glow-beauty-cosmetics/](https://samrawitasmelash41-stack.github.io/glow-beauty-cosmetics/)
+https://beautiful-lebkuchen-9bb84a.netlify.app/
 
 ---
 ## 🎯 Career Objective
