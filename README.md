@@ -41,7 +41,15 @@ An online system developed to simplify exam marking, evaluation, and academic ma
 https://mu-eems.vercel.app/
 
 ---
+### 3. Glow Beauty Cosmetics
 
+A beautiful web platform designed for cosmetics and beauty product showcase, allowing users to browse products smoothly.
+
+**Live Website**
+
+[https://samrawitasmelash41-stack.github.io/glow-beauty-cosmetics/](https://samrawitasmelash41-stack.github.io/glow-beauty-cosmetics/)
+
+---
 ## 🎯 Career Objective
 
 I am currently looking for an internship where I can apply my technical knowledge, learn from experienced developers, and contribute to real-world software projects.
